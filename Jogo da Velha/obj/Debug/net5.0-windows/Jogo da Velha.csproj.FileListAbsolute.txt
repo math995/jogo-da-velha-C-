@@ -1,0 +1,36 @@
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Jogo da Velha\Jogo da Velha\obj\Debug\net5.0-windows\Jogo da Velha.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Jogo da Velha\Jogo da Velha\obj\Debug\net5.0-windows\Jogo_da_Velha.Form1.resources
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Jogo da Velha\Jogo da Velha\obj\Debug\net5.0-windows\Jogo da Velha.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Jogo da Velha\Jogo da Velha\obj\Debug\net5.0-windows\Jogo da Velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Jogo da Velha\Jogo da Velha\obj\Debug\net5.0-windows\Jogo da Velha.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Jogo da Velha\Jogo da Velha\obj\Debug\net5.0-windows\Jogo da Velha.AssemblyInfo.cs
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Jogo da Velha\Jogo da Velha\obj\Debug\net5.0-windows\Jogo da Velha.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Jogo da Velha\Jogo da Velha\bin\Debug\net5.0-windows\Jogo da Velha.exe
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Jogo da Velha\Jogo da Velha\bin\Debug\net5.0-windows\Jogo da Velha.deps.json
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Jogo da Velha\Jogo da Velha\bin\Debug\net5.0-windows\Jogo da Velha.runtimeconfig.json
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Jogo da Velha\Jogo da Velha\bin\Debug\net5.0-windows\Jogo da Velha.runtimeconfig.dev.json
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Jogo da Velha\Jogo da Velha\bin\Debug\net5.0-windows\Jogo da Velha.dll
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Jogo da Velha\Jogo da Velha\bin\Debug\net5.0-windows\ref\Jogo da Velha.dll
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Jogo da Velha\Jogo da Velha\bin\Debug\net5.0-windows\Jogo da Velha.pdb
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Jogo da Velha\Jogo da Velha\obj\Debug\net5.0-windows\Jogo da Velha.dll
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Jogo da Velha\Jogo da Velha\obj\Debug\net5.0-windows\ref\Jogo da Velha.dll
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Jogo da Velha\Jogo da Velha\obj\Debug\net5.0-windows\Jogo da Velha.pdb
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Jogo da Velha\Jogo da Velha\obj\Debug\net5.0-windows\Jogo da Velha.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\Jogo da Velha\Jogo da Velha\bin\Debug\net5.0-windows\Jogo da Velha.exe
+C:\Users\Matheus\Desktop\Jogo da Velha\Jogo da Velha\bin\Debug\net5.0-windows\Jogo da Velha.deps.json
+C:\Users\Matheus\Desktop\Jogo da Velha\Jogo da Velha\bin\Debug\net5.0-windows\Jogo da Velha.runtimeconfig.json
+C:\Users\Matheus\Desktop\Jogo da Velha\Jogo da Velha\bin\Debug\net5.0-windows\Jogo da Velha.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\Jogo da Velha\Jogo da Velha\bin\Debug\net5.0-windows\Jogo da Velha.dll
+C:\Users\Matheus\Desktop\Jogo da Velha\Jogo da Velha\bin\Debug\net5.0-windows\ref\Jogo da Velha.dll
+C:\Users\Matheus\Desktop\Jogo da Velha\Jogo da Velha\bin\Debug\net5.0-windows\Jogo da Velha.pdb
+C:\Users\Matheus\Desktop\Jogo da Velha\Jogo da Velha\obj\Debug\net5.0-windows\Jogo da Velha.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Jogo da Velha\Jogo da Velha\obj\Debug\net5.0-windows\Jogo_da_Velha.Form1.resources
+C:\Users\Matheus\Desktop\Jogo da Velha\Jogo da Velha\obj\Debug\net5.0-windows\Jogo da Velha.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\Jogo da Velha\Jogo da Velha\obj\Debug\net5.0-windows\Jogo da Velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Jogo da Velha\Jogo da Velha\obj\Debug\net5.0-windows\Jogo da Velha.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Jogo da Velha\Jogo da Velha\obj\Debug\net5.0-windows\Jogo da Velha.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Jogo da Velha\Jogo da Velha\obj\Debug\net5.0-windows\Jogo da Velha.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Jogo da Velha\Jogo da Velha\obj\Debug\net5.0-windows\Jogo da Velha.dll
+C:\Users\Matheus\Desktop\Jogo da Velha\Jogo da Velha\obj\Debug\net5.0-windows\ref\Jogo da Velha.dll
+C:\Users\Matheus\Desktop\Jogo da Velha\Jogo da Velha\obj\Debug\net5.0-windows\Jogo da Velha.pdb
+C:\Users\Matheus\Desktop\Jogo da Velha\Jogo da Velha\obj\Debug\net5.0-windows\Jogo da Velha.genruntimeconfig.cache
